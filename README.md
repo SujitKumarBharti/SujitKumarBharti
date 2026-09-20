@@ -12,23 +12,7 @@ I enjoy building real-world projects, experimenting with Linux systems, managing
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **Bachelor of Computer Applications & Cyber Security (BCACS)**
-- 🔐 Interested in **Cybersecurity, Web Security & Network Security**
-- 🐧 Linux enthusiast working with **Kali Linux, BlackArch, Parrot OS and Ubuntu**
-- 💻 Building applications with **Python, PHP, C/C++ and JavaScript**
-- 🌐 Working with **Apache, PHP, MySQL/MariaDB and Linux servers**
-- 🖥️ Interested in **System Administration, Networking and Infrastructure**
-- 🔑 Working with **RSA, SHA-256, OpenSSL and Digital Signatures**
-- 🌐 Working with **iptables, DNS, DHCP, SSH, SSL/TLS and Port Forwarding**
-- 🛡️ Exploring **Web Security and Penetration Testing**
-- 🤖 Exploring **AI applications in Cybersecurity**
-- 📄 Working with **PDF, DOCX and OCR processing**
-- 💳 Working with **payment gateway integration and webhooks**
-- 📧 Exploring **SMTP, IMAP, Postfix and Dovecot**
-- 🐳 Experimenting with **Docker and self-hosted applications**
-- 🔗 Using **Tailscale and remote server access**
-- 🛠️ I prefer building practical tools instead of only demo applications
-- 📚 Learning through continuous experimentation, troubleshooting and hands-on projects
+I am pursuing a **Bachelor of Computer Applications & Cyber Security (BCACS)** and I am interested in **Cybersecurity, Web Security, Network Security, System Administration, Networking and Infrastructure**. I enjoy building practical applications with **Python, PHP, C/C++ and JavaScript**, working with **Apache, PHP, MySQL/MariaDB, PostgreSQL and Linux servers**, and exploring technologies such as **RSA, SHA-256, OpenSSL, Digital Signatures, iptables, DNS, DHCP, SSH, SSL/TLS and Port Forwarding**. I also work with **payment gateway integration, Cashfree Payments, webhooks, SMTP, IMAP, Postfix, Dovecot, Docker, Tailscale, PDF, DOCX and OCR processing**. I am continuously learning through hands-on experimentation, troubleshooting, web security, penetration testing and practical cybersecurity projects.
 
 ---
 
@@ -66,10 +50,11 @@ I enjoy building real-world projects, experimenting with Linux systems, managing
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Cashfree Payments](https://img.shields.io/badge/Cashfree%20Payments-1A73E8?style=for-the-badge&logo=cashfree&logoColor=white)
 
 **Web Technologies**
 
-`HTML` · `CSS` · `JavaScript` · `PHP` · `Apache` · `REST APIs` · `Authentication` · `Webhooks`
+`HTML` · `CSS` · `JavaScript` · `PHP` · `Apache` · `REST APIs` · `Authentication` · `Webhooks` · `Cashfree Payment Integration`
 
 ---
 
@@ -78,8 +63,9 @@ I enjoy building real-world projects, experimenting with Linux systems, managing
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-`MySQL` · `MariaDB` · `PostgreSQL` · `SQL`
+`MySQL` · `MariaDB` · `PostgreSQL` · `MongoDB` · `SQL`
 
 ---
 
@@ -90,6 +76,10 @@ I enjoy building real-world projects, experimenting with Linux systems, managing
 ![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-00AEEF?style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Red Hat Enterprise Linux](https://img.shields.io/badge/Red%20Hat%20Server-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Tails OS](https://img.shields.io/badge/Tails%20OS-56347C?style=for-the-badge&logo=linux&logoColor=white)
 
 ### Linux Environments
 
@@ -98,3 +88,7 @@ I enjoy building real-world projects, experimenting with Linux systems, managing
 🖤 BlackArch Linux
 🦜 Parrot OS
 🟠 Ubuntu
+🟠 Ubuntu Server
+🔴 Red Hat Server
+🔵 Fedora
+🟣 Tails OS
